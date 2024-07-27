@@ -1,6 +1,6 @@
-2. Crea bases de dades definint-ne l'estructura i les característiques dels elements segons el model relacional.
+## RA2 Crea bases de dades definint-ne l'estructura i les característiques dels elements segons el model relacional.
 
-   Criteris d'avaluació.     
+### Criteris d'avaluació.     
    2.1 Analitza el format d'emmagatzematge de la informació.     
    2.2 Crea les taules i les relacions entre elles.    
    2.3 Selecciona els tipus de dades adequades.    
