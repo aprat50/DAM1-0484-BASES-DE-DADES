@@ -1,4 +1,4 @@
-## Gestiona la informació emmagatzemada en bases de dades no relacionals, avaluant i utilitzant les possibilitats que proporciona el sistema gestor.    
+## RA7. Gestiona la informació emmagatzemada en bases de dades no relacionals, avaluant i utilitzant les possibilitats que proporciona el sistema gestor.    
 
 ### Criteris d'avaluació     
 
